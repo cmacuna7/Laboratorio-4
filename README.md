@@ -1,1 +1,28 @@
 # Laboratorio-4
+
+1. OBJETIVO GENERAL 
+
+    OBJETIVOS ESPECIFICO 
+    
+2. MARCO TEÓRICO
+
+
+3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+Circuito Analítico
+
+
+Circuito Simulado
+
+
+Materiales
+
+
+4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+
+5. VIDEO
+
+
+6. CONCLUSIONES
