@@ -25,7 +25,7 @@ Circuito Analítico
 
 ![](Img/2..PNG)
 
-![](Img/3..PNG)
+![](Img/3...PNG)
 
 Circuito Simulado
 
