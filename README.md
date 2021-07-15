@@ -10,7 +10,11 @@
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
-![](Img/LB1.jpeg)
+![](Img/1..PNG)
+
+![](Img/2..PNG)
+
+![](Img/3..PNG)
 
 Circuito Simulado
 
