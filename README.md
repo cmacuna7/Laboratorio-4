@@ -44,10 +44,10 @@ Materiales
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
-
+![](Img/tb1.PNG)
 
 Tabla 4.2. Medición de corriente aplicando superposición.
-
+![](Img/tb2.PNG)
 
 5. VIDEO
 
