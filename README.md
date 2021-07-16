@@ -33,6 +33,9 @@ Circuito Simulado
 
 ![image](https://user-images.githubusercontent.com/84789076/125872460-91148ab8-4c3d-4497-95c1-52d3d6080aa4.png)
 
+![image](https://user-images.githubusercontent.com/84789076/125872755-33cc82c8-41f5-42f1-ab53-5bc4f913f21b.png)
+
+
 Materiales
 
 ![image](https://user-images.githubusercontent.com/84789076/125872480-ce09cd34-3fa6-44c5-9bd3-5869a578de35.png)
