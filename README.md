@@ -62,3 +62,8 @@ https://youtu.be/29hgKSD_Uus
 
 •	En conclusión, para poder simplificar el circuito planteado una de las formas para que este se pueda resolver de una manera menos complicada es volver a redibujar el esquema y poder encontrar y comparar los valores mediante nodos, mallas y todas las fórmulas ya conocidas anteriormente.
 
+Bibliografía 
+
+Matethew. (24 de Marzo de 2017). Análisis de circuitos por teoremas. Obtenido de https://analisisdecircuitosporteoremascd.blogspot.com/2017/03/analisis-de-nodos-y-supernodos.html
+
+Mi electronica fácil. (24 de Julio de 2018). Obtenido de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/#page-content
