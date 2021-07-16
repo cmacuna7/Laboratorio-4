@@ -64,6 +64,10 @@ https://youtu.be/29hgKSD_Uus
 
 Bibliografía 
 
-Matethew. (24 de Marzo de 2017). Análisis de circuitos por teoremas. Obtenido de https://analisisdecircuitosporteoremascd.blogspot.com/2017/03/analisis-de-nodos-y-supernodos.html
+* Matethew. (24 de Marzo de 2017). Análisis de circuitos por teoremas. Obtenido de https://analisisdecircuitosporteoremascd.blogspot.com/2017/03/analisis-de-nodos-y-supernodos.html
 
-Mi electronica fácil. (24 de Julio de 2018). Obtenido de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/#page-content
+* Mi electronica fácil. (24 de Julio de 2018). Obtenido de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/#page-content
+
+* Budak, A. Circuit Theory Fundamentals and Applications. 2a. ed. Englewood Cliffs, NJ: Prentice Hall, 1987.
+
+* Balabanian, N. Electric Circuits. Nueva York: McGraw-Hill, 1994.
